@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhack2503=self.webpackChunkhack2503||[]).push([[7303],{67303:(e,a,s)=>{s.r(a),s.d(a,{default:()=>t});const t=(0,s(80129).p)({name:"next",data:'<svg fill="currentColor" viewBox="0 0 25 24"><path d="m9.181 6.182 1.2-1.2L17.4 12l-7.039 7.04-1.2-1.2L15 12z"/></svg>'})}}]);
+//# sourceMappingURL=7303.13cd5b9c.chunk.js.map

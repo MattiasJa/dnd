@@ -1,0 +1,11 @@
+"use strict";(self.webpackChunkhack2503=self.webpackChunkhack2503||[]).push([[3702],{3702:(e,t,o)=>{o.r(t),o.d(t,{Paper:()=>i,PaperSlot:()=>l});var r=o(5298);var l;!function(e){e.HEADER="header-slot",e.MEDIA="media-slot",e.ACTION="action-slot"}(l||(l={}));var s=function(e,t,o,r){var l,s=arguments.length,n=s<3?t:null===r?r=Object.getOwnPropertyDescriptor(t,o):r;if("object"===typeof Reflect&&"function"===typeof Reflect.decorate)n=Reflect.decorate(e,t,o,r);else for(var i=e.length-1;i>=0;i--)(l=e[i])&&(n=(s<3?l(n):s>3?l(t,o,n):l(t,o))||n);return s>3&&n&&Object.defineProperty(t,o,n),n},n=function(e,t){if("object"===typeof Reflect&&"function"===typeof Reflect.metadata)return Reflect.metadata(e,t)};let i=class extends r.OC{constructor(){super(...arguments),this.border=!1}render(){const[e,t]=(0,r.Yh)(this.tagName.toLowerCase(),{border:this.border});return r.qy`
+            <div class="${t}">
+                <slot name="${l.MEDIA}"></slot>
+                <slot name="${l.HEADER}"></slot>
+                <slot></slot>
+                <div class="${e}-action">
+                    <slot name="${l.ACTION}"></slot>
+                </div>
+            </div>
+        `}};s([(0,r.MZ)({type:Boolean,converter:r.Bs}),n("design:type",Object)],i.prototype,"border",void 0),i=s([(0,r.eV)({tagName:"paper",styles:e=>{const{root:t,child:o,is:l}=(0,r.zz)(e);return[r.iF,r.AH`:host,:host::before,:host::after,:host *,:host *::before,:host *::after{box-sizing:border-box;}:host{width:100%;height:100%;}${t}{display:flex;flex-direction:column;height:100%;width:100%;overflow:hidden;background-color:${(0,r.Jy)("color_primary_2")};color:${(0,r.Jy)("color_primary_3")};}${l("border")}{border:1px solid ${(0,r.Jy)("color_primary_3")};}${o("action")}{display:flex;align-self:end;width:100%;}::slotted([slot='media-slot']){display:block;width:100%;background-size:100%;background-repeat:no-repeat;background-position:center;}::slotted([slot='header-slot']){display:flex;align-items:center;justify-content:center;flex-shrink:0;}::slotted([slot='action-slot']){}slot:not([name])::slotted(*){display:flex;flex-direction:column;overflow:hidden;flex-grow:1;}`]},version:"2.0.44"})],i)}}]);
+//# sourceMappingURL=3702.93255502.chunk.js.map
