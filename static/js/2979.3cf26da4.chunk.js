@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhack2503=self.webpackChunkhack2503||[]).push([[2979],{22979:(a,e,n)=>{n.r(e),n.d(e,{Spinner:()=>k.y,SpinnerVariant:()=>r.D});var k=n(74983),r=n(16659)}}]);
